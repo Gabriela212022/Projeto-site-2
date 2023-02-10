@@ -1,0 +1,5 @@
+fazer:
+●separar a div e o form, praqheriquem mais nas extremidades. 
+separar ocontinuar da setw.
+corrigir oroblema do unicode.
+corrigir linha de baixo do CPF.
